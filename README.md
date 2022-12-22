@@ -62,9 +62,12 @@ LMR/9012/이몽룡/B//2020-10-03 13:00:00
 BHD/3456/변학도/B/악당/2020-10-04 14:00:00
 
 /////(실제파일은 한줄씩 내렸음)
+
+
 ![2](https://user-images.githubusercontent.com/115135514/209067957-4ba74f4a-8842-4c43-a50c-aa489eaf6641.PNG)
 
 조회 버튼 클릭시
+
 
 ![3](https://user-images.githubusercontent.com/115135514/209067969-ea2fc05b-9874-43b6-90f6-a05c9b82730e.PNG)
 
