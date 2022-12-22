@@ -46,14 +46,21 @@ postgreSQL
 ![1](https://user-images.githubusercontent.com/115135514/209067944-e4fcc48b-9bb7-40c7-8379-7ce18008a6ea.PNG)
 ![2](https://user-images.githubusercontent.com/115135514/209067957-4ba74f4a-8842-4c43-a50c-aa489eaf6641.PNG)
 
+
 case.1 - 성공시
 
 success.dbfile
+
 /////
+
 HKT/1234/홍길동/A/호형호제못함/2020-10-01 10:00:00
+
 SCH/5678/성춘향/B/여자/2020-10-02 12:00:00
+
 LMR/9012/이몽룡/B//2020-10-03 13:00:00
+
 BHD/3456/변학도/B/악당/2020-10-04 14:00:00
+
 /////
 
 ![3](https://user-images.githubusercontent.com/115135514/209067969-ea2fc05b-9874-43b6-90f6-a05c9b82730e.PNG)
@@ -61,13 +68,21 @@ BHD/3456/변학도/B/악당/2020-10-04 14:00:00
 case.1 - 실패시(일부 또는 전체)
 
 partfail.dbfile
+
 /////
+
 HMT/1234/홍길동/A/호형호제못함/2020-10-01 10:00:00
+
 SCQ/5678/성춘향/B/여자/2020-10-02 12:00:00
+
 LMG/9012/이몽룡/B//2020-10-03 13:00:00
+
 BHS/3456/변학도/B/악당/2020-10-04 14:00:00
+
 555111
+
 /////
+
 
 
 ![4](https://user-images.githubusercontent.com/115135514/209068017-5885feba-2ce2-48a5-bdd9-8e4ede9f3b25.PNG)
