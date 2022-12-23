@@ -96,5 +96,5 @@ BHS/3456/변학도/B/악당/2020-10-04 14:00:00
 # 2차 과제
 db의 데이터를 모두 보이게 하는 페이지 만들기
 
-# 2차 과제 
+# 2차 과제 결과물
 ![image](https://user-images.githubusercontent.com/115135514/209279128-d9bc8c3e-7986-433e-b84b-c4a2286cb656.png)
