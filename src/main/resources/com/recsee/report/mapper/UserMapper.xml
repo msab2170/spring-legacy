@@ -14,7 +14,9 @@ PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
         VALUES (#{id}, #{pwd}, #{name}, #{level}, #{desc}, #{regDate})
     </insert>
     
-    <select id="numberOfUser" resultType="int">
-        SELECT COUNT(id) FROM t_user;
-    </select>
+    <select id="findUsersInPage" resultType="com.recsee.report.vo.User">
+		SELECT * FROM t_user limit #{limit} offset #{offset}
+	</select>
 </mapper>
+
+findUsersInPage

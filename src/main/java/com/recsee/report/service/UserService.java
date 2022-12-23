@@ -85,5 +85,20 @@ public class UserService {
 		return result;	
 	}
 	
-	
+	public List<UserDto> findUsersInPage(int limit, int offset) {
+		List<User> UserList = userMapper.findUsersInPage(limit, offset);
+		List<UserDto> UdList = new ArrayList<>();
+		SimpleDateFormat sdf = new SimpleDateFormat ("yyyy년MM월dd일 hh시m분");
+		for (User user : UserList) {
+			UdList.add(new UserDto(
+					user.getId(), 
+					user.getPwd(), 
+					user.getName(), 
+					user.getLevel(), 
+					user.getDesc(), 
+					String.valueOf(sdf.format(user.getRegDate())))
+			);
+		}		
+		return UdList;
+	}
 }

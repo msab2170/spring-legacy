@@ -20,7 +20,7 @@
   function showUsers() {
 	  $.ajax({
 			type : "POST",			// 데이터 전송방법
-			url : "/showUsers",	
+			url : "/show-users",	
 			dataType: "json",
 			success:function(data){
 				if (data.length > 0) {

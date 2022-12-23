@@ -55,10 +55,29 @@ public class HomeController {
 		return "redirect:/result";
 	}
 	
+	// 2차 괴제 부분 시작
 	@ResponseBody
-	@PostMapping("/showUsers")
+	@PostMapping("/show-users")
 	public List<UserDto> showAllUsers() {
 		return userService.findAllUsers();
 	}
 	
+	@GetMapping("/show-users")
+	public String initAllUsers() {
+		return "/show-users";
+	}
+	// 2차 괴제 부분 끝
+	
+	// 3차 과제 부분 시작
+	@ResponseBody
+	@PostMapping("/show-users")
+	public List<UserDto> showAllUsers() {
+		return userService.findAllUsers();
+	}
+	
+	@GetMapping("/show-users-paging")
+	public String initAllUsersWithPaging() {
+		return "/show-users-paging";
+	}
+	// 3차 과제 부분 끝
 }

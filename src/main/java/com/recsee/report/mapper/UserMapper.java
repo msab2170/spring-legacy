@@ -11,5 +11,5 @@ public interface UserMapper {
 	
 	public List<User> findAllUsers();
 	public void insertUser(User user);
-	public int numberOfUser();
+	public List<User> findUsersInPage(int limit, int offset);
 }
