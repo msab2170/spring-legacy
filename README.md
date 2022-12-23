@@ -5,16 +5,17 @@
 
 1차 과제
 
-spring legacy
+ - STS ( spring legacy로 )
 
-STS
-mybatis
-postgreSQL
+ - mybatis
 
+ - postgreSQL
+
+ - bootstrap 
 
 2차 과제
 
-dhtmlx grid 5
+ - dhtmlx grid 5
 
 
 # 1차과제
