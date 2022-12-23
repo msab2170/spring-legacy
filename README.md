@@ -41,7 +41,7 @@ postgreSQL
 10. json 응답 데이터를 아래의 표 형태로 보여줌
 -------------------------------------------------------------------------------
 
-1차 과제 결과물 
+# 1차 과제 결과물 
 
 ![1](https://user-images.githubusercontent.com/115135514/209067944-e4fcc48b-9bb7-40c7-8379-7ce18008a6ea.PNG)
 
@@ -92,3 +92,9 @@ BHS/3456/변학도/B/악당/2020-10-04 14:00:00
 
 
 ![4](https://user-images.githubusercontent.com/115135514/209068017-5885feba-2ce2-48a5-bdd9-8e4ede9f3b25.PNG)
+
+# 2차 과제
+db의 데이터를 모두 보이게 하는 페이지 만들기
+
+# 2차 과제 
+![image](https://user-images.githubusercontent.com/115135514/209279128-d9bc8c3e-7986-433e-b84b-c4a2286cb656.png)
