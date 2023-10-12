@@ -52,7 +52,8 @@
 
 # 1차 과제 결과물 
 
-![1](https://user-images.githubusercontent.com/115135514/209067944-e4fcc48b-9bb7-40c7-8379-7ce18008a6ea.PNG)
+![image](https://github.com/msab2170/spring-legacy/assets/115135514/6b36ba1a-54a8-4edc-97ba-c42f32df90a2)
+
 
 
 
@@ -73,12 +74,14 @@ BHD/3456/변학도/B/악당/2020-10-04 14:00:00
 /////(실제파일은 한줄씩 내렸음)
 
 
-![2](https://user-images.githubusercontent.com/115135514/209067957-4ba74f4a-8842-4c43-a50c-aa489eaf6641.PNG)
+![image](https://github.com/msab2170/spring-legacy/assets/115135514/78f2e41e-2268-46d6-9d1d-97317c6ed95c)
+
 
 조회 버튼 클릭시
 
 
-![3](https://user-images.githubusercontent.com/115135514/209067969-ea2fc05b-9874-43b6-90f6-a05c9b82730e.PNG)
+![image](https://github.com/msab2170/spring-legacy/assets/115135514/376c1360-bcc5-458c-a384-d72f08f8f40d)
+
 
 case.1 - 실패시(일부 또는 전체)
 
@@ -100,7 +103,8 @@ BHS/3456/변학도/B/악당/2020-10-04 14:00:00
 
 
 
-![4](https://user-images.githubusercontent.com/115135514/209068017-5885feba-2ce2-48a5-bdd9-8e4ede9f3b25.PNG)
+![image](https://github.com/msab2170/spring-legacy/assets/115135514/fbf034d6-6a89-4b8f-a44d-6c926036874c)
+
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -108,4 +112,5 @@ BHS/3456/변학도/B/악당/2020-10-04 14:00:00
 db의 데이터를 모두 보이게 하는 페이지 만들기
 
 # 2차 과제 결과물
-![image](https://user-images.githubusercontent.com/115135514/209279128-d9bc8c3e-7986-433e-b84b-c4a2286cb656.png)
+![image](https://github.com/msab2170/spring-legacy/assets/115135514/eb2c1140-b216-47bb-9b83-31e666c5f4f5)
+
