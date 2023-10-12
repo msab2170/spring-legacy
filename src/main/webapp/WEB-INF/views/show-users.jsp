@@ -57,7 +57,7 @@
 			</script> 
   		
     </div>
-    <div class="panel-footer">Recsee</div>
+    <div class="panel-footer">dodo</div>
   </div>
 </div>
 
